@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_943bd7bf65de2e4ac331ac2ec6ba00780e0449d2.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_c735bf7dd1d40588d1e81b8c27a1e448c3169c20.jar" />
+    </item>
+    <item
+        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_eba5031cabaf6284f0b91937e0fc0631a0647956.jar" />
+    </item>
+    <item
+        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_fffe105be285c3aa99e5c73b5ce1b315966d08dd.jar" />
+    </item>
+    <item
+        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_3a6fa071fa63c3fd3ee5d93e90a222285971a03d.jar" />
+    </item>
+    <item
+        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_e1fa3a9dcf61bef908da48835c5245941e30200d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nearby distance in meters-->
+    <integer name="nearby_distance">500</integer>
+    <integer name="map_bottom_dimen">180</integer>
+</resources>

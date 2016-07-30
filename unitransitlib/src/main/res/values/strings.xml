@@ -1,0 +1,40 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">UCI Transit</string>
+
+    <string name="title_activity_arrivals">Nearby Arrivals</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Route Activity strings (Detail and map fragments)-->
+    <string name="route_stops_tab">Stops</string>
+    <string name="route_map_tab">Route Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nav_submenu_title">Routes</string>
+
+    <!-- Empty recycler view + other special case messages-->
+    <string name="empty_default_message">Arrival predictions are not available at this time.</string>
+    <string name="empty_no_connection_message">The network is not available to fetch arrival data.</string>
+    <string name="empty_no_nearby_message">There are no nearby stops. Please view the navigation drawer for specific routes.</string>
+    <string name="empty_no_location_message">Location is not available. Please allow location for nearby arrivals.</string>
+    <string name="empty_no_data_from_server">Arrival predictions are not available at this time. No data is transmitted from the server.</string>
+
+    <string name="snackbar_dismiss">Dismiss</string>
+    <string name="map_arrival_time_message">Bus <xliff:g id="bus">%1$s</xliff:g> coming in <xliff:g id="time">%2$s</xliff:g> minutes</string>
+    <string name="map_direction">Heading <xliff:g id="direction">%1$s</xliff:g></string>
+    <string name="map_percentage">Bus is <xliff:g id="percent">%1$s</xliff:g>%% full</string>
+    <string name="map_bus_name">Bus <xliff:g id="bus">%1$s</xliff:g></string>
+
+    <!-- x min where min is shorthand for minute.  Example: 1 min -->
+    <string name="arrival_time"><xliff:g id="time">%1$s</xliff:g> min</string>
+    <string name="no_arrival_time">Not available yet</string>
+    <string name="button_center_string">Center</string>
+    <string name="widget_empty">No data available.</string>
+
+    <!-- Key name for storing location latlong in SharedPreferences -->
+    <string name="pref_location_latitude" translatable="false">loc-latitude</string>
+    <string name="pref_location_longitude" translatable="false">loc-longitude</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="route_name">
+        <item>H - ACC Housing Summer</item>
+        <item>W - West Irvine Summer</item>
+    </string-array>
+
+    <integer-array name="route_id">
+        <item>932</item>
+        <item>2830</item>
+    </integer-array>
+
+    <array name="route_colors">
+        <item>#F0649E</item>
+        <item>#B7B7B7</item>
+    </array>
+
+</resources>

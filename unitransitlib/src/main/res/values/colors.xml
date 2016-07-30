@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UCI color palette from guidelines -->
+    <color name="colorPrimary">#0063A4</color>
+    <color name="colorPrimaryDark">#1B3D6D</color>
+    <color name="colorAccent">#FFD200</color>
+    <color name="betweenPoint">#0E5089</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#707070</color>
+
+    <color name="favorite_checked">@color/colorAccent</color>
+    <color name="favorite_unchecked">@color/white</color>
+
+    <color name="map_transparent_white">#DDFFFFFF</color>
+
+</resources>
