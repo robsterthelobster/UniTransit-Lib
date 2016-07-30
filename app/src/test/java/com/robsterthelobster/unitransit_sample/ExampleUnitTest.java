@@ -1,4 +1,4 @@
-package com.robsterthelobster.unitransit_lib;
+package com.robsterthelobster.unitransit_sample;
 
 import org.junit.Test;
 
