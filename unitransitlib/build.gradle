@@ -32,5 +32,4 @@ dependencies {
     compile 'com.android.support:design:24.0.0'
     compile 'com.android.support:support-v4:24.0.0'
     compile 'com.android.support:gridlayout-v7:24.0.0'
-    compile 'jp.wasabeef:recyclerview-animators:2.2.3'
 }

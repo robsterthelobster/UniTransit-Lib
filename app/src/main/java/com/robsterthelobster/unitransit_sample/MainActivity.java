@@ -2,7 +2,7 @@ package com.robsterthelobster.unitransit_sample;
 
 import android.os.Bundle;
 
-import com.robsterthelobster.unitransitlib.ArrivalsActivity;
+import com.robsterthelobster.unitransit_lib.ArrivalsActivity;
 
 public class MainActivity extends ArrivalsActivity {
 

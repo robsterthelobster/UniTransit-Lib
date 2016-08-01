@@ -2,116 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\robin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\gson-2.7_c6735695c6f558c2a3d819023d7c150c46ea71b9.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_07220f2316ae57474f1a0b440a7612d9ba5424b4.jar" />
-    </item>
-    <item
-        jar="C:\Users\robin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_5564a1ef9c318da5da3b148ed65c57eabe747cd0.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_b87e1ddab259ceeede5e701f86d540be92aa0987.jar" />
-    </item>
-    <item
-        jar="C:\Users\robin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\okio-1.8.0_1856eea7852cfd40f012af4d6496eb4d353bf8a4.jar" />
-    </item>
-    <item
-        jar="C:\Users\robin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_1e2f40ffe89a2f46e3c3104f19d5ae330cd98d8f.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_fe9db5219d9796faa114efa19bc767785cb0ed56.jar" />
-    </item>
-    <item
         jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\UniTransit-Lib\unitransitlib\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="24.0.0"
-        sha1="5f8f0d8187ae7bd3cdc7906a891a0d594405a719">
+        sha1="bcc9712267cfb0c9818ae87e85381db93585c115">
         <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\UniTransit-Lib-unitransitlib-unspecified_8139a46538b127579e33b719135f183421f64af4.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.3\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.3_0b8959555a002f0aa45780975e1bd00ee8a16432.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_accebb6d2f9d8bd4fc8e7197b1ef8c931f8f2fc1.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="ec26ade997fbf2643d8c25cee7a9d1adecb3478d">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-24.0.0_d1b1cb7587e6cda3fa3a0643955e91c64c935ba9.jar" />
-    </item>
-    <item
-        jar="C:\Users\robin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_116d8add0f84ee21a3f2367d4f8bca9f177dd30a.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_75137f3c71d7c912a082bb7459be7c7f4d1b8c5a.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_4649fad7d28a449c8bb9aced594560b5ddd8febb.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_f8b6fb9a8c78d95eef64e6d7e52449ebf0ca65a4.jar" />
-    </item>
-    <item
-        jar="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="D:\Users\robin\Desktop\UniTransit-Lib\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_c8b23941ffa623f07d2f7e9c97eab8b5c7e5abe0.jar" />
     </item>
 
 </items>
