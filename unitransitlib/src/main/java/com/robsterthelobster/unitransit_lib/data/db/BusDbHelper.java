@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class BusDbHelper extends SQLiteOpenHelper{
 
     private static final int DATABASE_VERSION = 1;
-    private static final String DATABASE_NAME = "UCIBustracker.db";
+    private static final String DATABASE_NAME = "Bustracker.db";
 
     private static final String SQL_DELETE = "DROP TABLE IF EXISTS ";
 

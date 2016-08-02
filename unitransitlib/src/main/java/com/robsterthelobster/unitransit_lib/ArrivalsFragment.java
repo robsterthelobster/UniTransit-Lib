@@ -224,21 +224,23 @@ public class ArrivalsFragment extends Fragment implements LoaderManager.LoaderCa
 
     @Override
     public void onLoadFinished(Loader<Cursor> loader, Cursor cursor) {
-        int id = loader.getId();
-        switch(id){
-            // Only the arrival_loader needs to have the cursor filtered
-            case ARRIVAL_LOADER:
-                if(cursor != null) {
-                    cursor = new ArrivalsCursorWrapper(cursor,
-                            Utility.getLocationLatitude(getContext()),
-                            Utility.getLocationLongitude(getContext()),
-                            getContext().getResources().getInteger(R.integer.nearby_distance));
-                }
-            case STOP_ARRIVAL_LOADER:
-                mAdapter.swapCursor(cursor);
-                break;
-            default:
-                Log.d(TAG, "Not valid id: " + id);
+        if(cursor != null){
+            int id = loader.getId();
+            switch(id){
+                // Only the arrival_loader needs to have the cursor filtered
+                case ARRIVAL_LOADER:
+                    if(cursor != null) {
+                        cursor = new ArrivalsCursorWrapper(cursor,
+                                Utility.getLocationLatitude(getContext()),
+                                Utility.getLocationLongitude(getContext()),
+                                getContext().getResources().getInteger(R.integer.nearby_distance));
+                    }
+                case STOP_ARRIVAL_LOADER:
+                    mAdapter.swapCursor(cursor);
+                    break;
+                default:
+                    Log.d(TAG, "Not valid id: " + id);
+            }
         }
 
         updateEmptyView();

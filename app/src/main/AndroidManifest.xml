@@ -31,9 +31,9 @@
 
         <provider
             android:name="com.robsterthelobster.unitransit_lib.data.db.BusContentProvider"
-            android:authorities="MY_CONTENT"
+            android:authorities="com.robsterthelobster.bustracker"
             android:enabled="true"
-            android:exported="false" />
+            android:exported="true" />
     </application>
 
 
