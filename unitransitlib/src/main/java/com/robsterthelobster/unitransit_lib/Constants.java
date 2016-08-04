@@ -13,4 +13,6 @@ public class Constants {
 
     public static final String BUS_ROUTE_ACTION = "com.robsterthelobster.ucibustracker.bus";
     public static final String ACTION_DATA_UPDATED = "com.robsterthelobster.ucibustracker.ACTION_DATA_UPDATED";
+
+    public static String URL = "";
 }

@@ -9,6 +9,7 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
 import com.robsterthelobster.unitransit_lib.Constants;
+import com.robsterthelobster.unitransit_lib.R;
 import com.robsterthelobster.unitransit_lib.data.db.BusContract;
 import com.robsterthelobster.unitransit_lib.data.models.Arrivals;
 import com.robsterthelobster.unitransit_lib.data.models.Prediction;
@@ -44,7 +45,7 @@ public class UniBusIntentService extends IntentService {
     private final String TAG = UniBusIntentService.class.getSimpleName();
 
     UniBusApiEndpointInterface apiService;
-    public final String BASE_URL = "http://www.ucishuttles.com/";
+    public final String BASE_URL = Constants.URL;
 
     public UniBusIntentService() {
         super("UniBusIntentService");

@@ -9,6 +9,7 @@ public class MainActivity extends ArrivalsActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        Constants.URL = "http://www.ucishuttles.com/";
         super.onCreate(savedInstanceState);
     }
 }
